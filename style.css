@@ -35,7 +35,9 @@ section{
 .profile-img{
     width: 80%;
 }
-.dream-big{
+.drem-big{
+    width: 80%;
     background-image:url(images/dream-bg.png);
    background-repeat:no-repeat;
+   background-position: right ;
 }
